@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -75,7 +75,7 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "G-MS8BGCPKM0"
 
 
 # Site Author
@@ -83,10 +83,10 @@ author:
   name             : "Yu Hao"
   avatar           : "profile.png"
   bio              : "Postdoc at School of Computer Science and Engineering, The University of New South Wales"
-  location         : "UNSW"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  location         : "Sydney, AU"
+  employer         : "UNSW"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&authuser=5&user=SlYBiEgAAAAJ"
   email            : "yu.hao@unsw.edu.au"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -94,27 +94,28 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : 
   foursquare       :
   github           : "working-yuhao"
-  google_plus      :
+  google_plus      : 
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/yu-ha0/"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          :
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
+  dblp             : "https://dblp.uni-trier.de/pid/33/3270-3.html"
 
 
 # Reading Files
