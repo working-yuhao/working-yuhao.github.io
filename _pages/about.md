@@ -12,7 +12,7 @@ Yu Hao is currently a Postdoctoral Researcher in the Data and Knowledge Research
 
 His research interests lie in Data Mining, Big Data Analytics, and Artificial Intelligence, especially on Graph Representation Learning and Machine Learning Applications (like Link Prediction and Keyword Search).
 
-Publications (* indicates equal contribution or corresponding author)
+Publications (* indicates corresponding author)
 ======
 1. **Yu Hao**, Xin Cao, Yufan Sheng, Yixiang Fang and Wei Wang. Handling Keyword Search over Incomplete Graphs via Graph Neural Network. (Accepted, NeurIPS2021)
 2. Han Zhang, **Yu Hao\***, Xin Cao, Yixiang Fang and  Wei Wang.
