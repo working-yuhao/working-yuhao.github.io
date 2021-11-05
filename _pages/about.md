@@ -15,9 +15,9 @@ His research interests lie in Data Mining, Big Data Analytics, and Artificial In
 Publications (* indicates equal contribution or corresponding author)
 ======
 1. **Yu Hao**, Xin Cao, Yufan Sheng, Yixiang Fang and Wei Wang. Handling Keyword Search over Incomplete Graphs via Graph Neural Network. (Accepted, NeurIPS2021)
-2. **Yu Hao**, Xin Cao, Yixiang Fang, Xike Xie, and Sibo Wang. Inductive link prediction for nodes having only attribute information.  In Proceedings of the Twenty-449Ninth International Joint Conference on Artificial Intelligence, IJCAI-20, pages 1209–1215, 7 2020. Main track.
-3. Han Zhang, **Yu Hao\***, Xin Cao, Yixiang Fang and  Wei Wang.
+2. Han Zhang, **Yu Hao\***, Xin Cao, Yixiang Fang and  Wei Wang.
     Relation Prediction via Graph Neural Network in Heterogeneous Information Networks with Missing Type Information. (Accepted, CIKM2021)
+3. **Yu Hao**, Xin Cao, Yixiang Fang, Xike Xie, and Sibo Wang. Inductive link prediction for nodes having only attribute information.  In Proceedings of the Twenty-449Ninth International Joint Conference on Artificial Intelligence, IJCAI-20, pages 1209–1215, 7 2020. Main track.
 4. Yufan Sheng and **Yu Hao**. 2020. Context-aware Location Search on Maps. In Proceedings of the ACM Turing Celebration Conference - China (ACM TURC'20). Association for Computing Machinery, New York, NY, USA, 169–173. 
 
 Academic Services
