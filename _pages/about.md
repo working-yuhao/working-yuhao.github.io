@@ -48,3 +48,10 @@ Teaching
 
   - Database Systems (COMP9311) -  2020 T1, 2020 T3, 2021 T1.
 
+
+Honors and Awards
+======
+- HDR Foundation Fellowship, University of New South Wales, 2021
+- ECAN funding, University of New South Wales, 2021
+- Selected IJCAI 2020 Volunteer
+
