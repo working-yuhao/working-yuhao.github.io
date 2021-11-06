@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Yu Hao is currently a Postdoctoral Researcher in the Data and Knowledge Research Group at the [University of New South Wales](https://www.unsw.edu.au/). He got his Ph.D. from The University of New South Wales under the supervision of Dr. [Xin Cao](https://xincao-unsw.github.io/) and Prof. [Xuemin Lin]({https://www.cse.unsw.edu.au/~lxue/) in 2021. He got his master's degree of Electrical and Communications Engineering and bachelor’s degree of Information Engineering from Shanghai Jiao Tong University in 2017 and 2014. In 2016, he obtained the diploma of Engineer from École des mines de Saint‐Étienne, France.
+Yu Hao is currently a Postdoctoral Researcher in the Data and Knowledge Research Group at the [University of New South Wales](https://www.unsw.edu.au/). He got his Ph.D. from The University of New South Wales under the supervision of Dr. [Xin Cao](https://xincao-unsw.github.io/) and Prof. [Xuemin Lin]({https://www.cse.unsw.edu.au/~lxue/) in 2021. He got his master's degree of Electrical and Communications Engineering and bachelor’s degree of Information Engineering from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) in 2017 and 2014. In 2015, he obtained the diploma of Engineer from [École des mines de Saint‐Étienne](https://www.mines-stetienne.fr/en/), France.
 
 His research interests lie in Data Mining, Big Data Analytics, and Artificial Intelligence, especially on Graph Representation Learning and Machine Learning Applications (like Link Prediction and Keyword Search).
 
